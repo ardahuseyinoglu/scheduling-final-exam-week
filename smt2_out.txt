@@ -1,0 +1,125 @@
+(define-fun BBM234-h () Int
+    11)
+  (define-fun BBM202-h () Int
+    13)
+  (define-fun BBM405-d () Int
+    10)
+  (define-fun BBM461-d () Int
+    10)
+  (define-fun BBM461-h () Int
+    17)
+  (define-fun BBM486-h () Int
+    16)
+  (define-fun BBM442-h () Int
+    9)
+  (define-fun BBM382-d () Int
+    11)
+  (define-fun BBM405-h () Int
+    11)
+  (define-fun BBM456-d () Int
+    4)
+  (define-fun BBM428-h () Int
+    18)
+  (define-fun BBM421-h () Int
+    17)
+  (define-fun BBM406-h () Int
+    9)
+  (define-fun BBM416-d () Int
+    7)
+  (define-fun AIN212-d () Int
+    11)
+  (define-fun BBM342-h () Int
+    11)
+  (define-fun BBM102-h () Int
+    13)
+  (define-fun BBM467-h () Int
+    13)
+  (define-fun BBM202-d () Int
+    4)
+  (define-fun BBM428-d () Int
+    4)
+  (define-fun AIN200-h () Int
+    15)
+  (define-fun BBM382-h () Int
+    9)
+  (define-fun BBM410-h () Int
+    17)
+  (define-fun BBM342-d () Int
+    4)
+  (define-fun BBM234-d () Int
+    11)
+  (define-fun BBM410-d () Int
+    11)
+  (define-fun BBM467-d () Int
+    11)
+  (define-fun BBM421-d () Int
+    7)
+  (define-fun BBM442-d () Int
+    4)
+  (define-fun AIN200-d () Int
+    7)
+  (define-fun BBM432-d () Int
+    9)
+  (define-fun BBM416-h () Int
+    13)
+  (define-fun BBM432-h () Int
+    13)
+  (define-fun AIN212-h () Int
+    15)
+  (define-fun BBM102-d () Int
+    8)
+  (define-fun BBM242-h () Int
+    11)
+  (define-fun BBM486-d () Int
+    8)
+  (define-fun BBM456-h () Int
+    16)
+  (define-fun BBM242-d () Int
+    9)
+  (define-fun BBM406-d () Int
+    8)
+  (define-fun MAT124-h () Int
+    14)
+  (define-fun TKD104-h () Int
+    16)
+  (define-fun ING112-h () Int
+    9)
+  (define-fun IST292-h () Int
+    9)
+  (define-fun FIZ117-h () Int
+    17)
+  (define-fun BEB650-h () Int
+    15)
+  (define-fun MUH104-h () Int
+    16)
+  (define-fun MAT254-h () Int
+    11)
+  (define-fun AIT204-h () Int
+    18)
+  (define-fun FIZ138-h () Int
+    9)
+  (define-fun ELE296-h () Int
+    11)
+  (define-fun MAT124-d () Int
+    10)
+  (define-fun TKD104-d () Int
+    10)
+  (define-fun ING112-d () Int
+    10)
+  (define-fun IST292-d () Int
+    9)
+  (define-fun FIZ117-d () Int
+    9)
+  (define-fun BEB650-d () Int
+    9)
+  (define-fun MUH104-d () Int
+    9)
+  (define-fun MAT254-d () Int
+    8)
+  (define-fun AIT204-d () Int
+    8)
+  (define-fun FIZ138-d () Int
+    7)
+  (define-fun ELE296-d () Int
+    7)
+)
